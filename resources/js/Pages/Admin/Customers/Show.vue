@@ -126,16 +126,16 @@
                 </div>
 
                 <!-- Productos Referencia Bancaria -->
-                <div>
+                <!-- <div>
                     <p class="text-gray-500 dark:text-gray-400">Productos - Referencia bancaria:</p>
                     <p class="text-lg font-semibold text-gray-800 dark:text-white">{{ customer.products_reference }}</p>
-                </div>
+                </div> -->
 
                 <!-- Referencia Bancaria -->
-                <div>
+                <!-- <div>
                     <p class="text-gray-500 dark:text-gray-400">Referencia bancaria:</p>
                     <p class="text-lg font-semibold text-gray-800 dark:text-white">{{ customer.deals_reference }}</p>
-                </div>
+                </div> -->
 
                 <!-- Fecha de cierre -->
                 <div>
@@ -225,12 +225,12 @@
                     </p>
 
                     <!-- Fraccionamiento -->
-                    <p
+                    <!-- <p
                     class="absolute font-bold text-cyan-800 text-center text-xl w-full"
                     style="top: 10%"
                     >
                     {{ customer.products_reference || ' ' }}
-                    </p>
+                    </p> -->
                 </div>
                 </div>
 
